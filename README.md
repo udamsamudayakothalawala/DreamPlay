@@ -18,5 +18,6 @@ npm install electron --save-dev
 npm install electron-builder
 npm run build
 
+
 Use your own icon.png as your icon.
 I use this : [Click me - attribute to mayor icons](https://www.flaticon.com/free-icon/music_7566380)
