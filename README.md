@@ -11,6 +11,7 @@ ALso this can interact with spotify API
 
 To make your customized version.
 
+```bash
 cd /DreamPlay
 npm init -y
 npm install electron --save-dev
